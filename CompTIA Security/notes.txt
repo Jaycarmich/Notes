@@ -1,0 +1,44 @@
+
+
+CompTIA Security+ 
+	- https://www.cybrary.it/course/comptia-security-plus/
+
+Module 1
+----------------------------------------------
+	> Firewalls
+	
+		Types:
+			- Stateful, Application, Packet
+			
+	
+	
+	> Proxies
+	> Reverse Proxies
+	> Network Address Translation
+	> VPN Concentrators
+
+
+
+Module 2
+----------------------------------------------
+
+
+
+Module 3
+----------------------------------------------
+
+
+Module 4
+----------------------------------------------
+
+
+Module 5
+----------------------------------------------
+
+
+Module 6
+----------------------------------------------
+
+
+Exam Module
+----------------------------------------------
